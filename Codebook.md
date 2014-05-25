@@ -1,8 +1,5 @@
-Getting and Cleaning Data Course Project 
-Codebook (May 23, 2014)
+#Getting and Cleaning Data Course Project Codebook (May 23, 2014)
 ========================================
-# Codebook
-
 ## ID Fields
 
 * `subject`  The participant ("subject") ID
